@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\Denny\source\repos\Exercise\Exercise\Math.h(70,12): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Denny\source\repos\Exercise\Exercise\Math.h(65,1): message : while compiling class template member function 'T Math<T>::divide(void)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Denny\source\repos\Exercise\Exercise\Main.cpp(15,91): message : see reference to function template instantiation 'T Math<T>::divide(void)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Denny\source\repos\Exercise\Exercise\Main.cpp(9,24): message : see reference to class template instantiation 'Math<int>' being compiled
+  Math.cpp
+  Generating Code...
+  Exercise.vcxproj -> C:\Users\Denny\source\repos\Exercise\x64\Debug\Exercise.exe
